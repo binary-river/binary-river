@@ -35,6 +35,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white">
 <img src="https://img.shields.io/badge/TeraStream(ETL)-blue?style=flat&logo=ETL&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/OZreport-A100FF?style=flat&logo=OZ&logoColor=white">
+<img src="https://img.shields.io/badge/NCRM-008FC7?style=flat&logo=NCRM&logoColor=white">
+
 
 
 
