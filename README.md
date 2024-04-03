@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Oracle-%23F80000?style=flat&logo=Oracle&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-%236DB33F?style=flat&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=flat&logo=SpringBoot&logoColor=white">
+<img src="https://img.shields.io/badge/react-%2361DAFB?style=flat&logo=react&logoColor=black">
 
 
 
