@@ -59,6 +59,9 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binary-river&layout=compact)
 
+<img src="https://img.shields.io/badge/csr.house.d%40gmail.com-%23EA4335?style=flat&logo=Gmail&logoColor=white">
+
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer)
 
 </div>
