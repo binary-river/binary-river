@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   
 ### Hi there 👋
 
-### 🛠🛠 Tech Stack 🛠🛠
+### 🛠 Tech Stack 🛠
 
 <img src="https://img.shields.io/badge/Java-2F2625?style=flat&logo=CoffeeScript&logoColor=white">
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
