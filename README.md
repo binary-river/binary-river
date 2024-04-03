@@ -11,13 +11,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- Hi there 👋
 -->
 
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient)
   
-### Hi there 👋
+
 
 ### 🛠 Tech Stack 🛠
 
