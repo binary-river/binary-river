@@ -43,14 +43,15 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
+<img src="https://img.shields.io/badge/JSP-23C8D2?style=flat&logo=JSP&logoColor=white">
 <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white">
 <br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/JPA-5BA745?style=flat&logoColor=white">
-<img src="https://img.shields.io/badge/JSP-23C8D2?style=flat&logo=JSP&logoColor=white">
+
 
 
 <br/>
