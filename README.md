@@ -37,6 +37,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/OZreport-A100FF?style=flat&logo=OZ&logoColor=white">
 <img src="https://img.shields.io/badge/NCRM-008FC7?style=flat&logo=NCRM&logoColor=white">
+<img src="https://img.shields.io/badge/Shell-004088?style=flat&logoColor=white">
+<img src="https://img.shields.io/badge/JPA-5BA745?style=flat&logoColor=white">
+
 
 
 
