@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient)
+
+<div align="center">
 ### Hi there 👋
 
 ### 🛠🛠 Tech Stack 🛠🛠
 
 <img src="https://img.shields.io/badge/Java-%232F2625?style=flat&logo=CoffeeScript&logoColor=white">
+
+</div>
