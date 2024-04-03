@@ -43,6 +43,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/JSP-23C8D2?style=flat&logo=JSP&logoColor=white">
 <img src="https://img.shields.io/badge/UNIX-5277C3?style=flat&logo=UNIX&logoColor=white">
 
+<br/>
+<br/>
+<br/>
 
 [![Binary-river's GitHub stats](https://github-readme-stats.vercel.app/api?username=binary-river)](https://github.com/anuraghazra/github-readme-stats)
 
