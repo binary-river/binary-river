@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Shell-004088?style=flat&logoColor=white">
 <img src="https://img.shields.io/badge/UNIX-5277C3?style=flat&logo=UNIX&logoColor=white">
 <br>
-<img src="https://img.shields.io/badge/Devon-A50034?style=flat&logo=LG&logoColor=white">
 <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
 <img src="https://img.shields.io/badge/TeraStream(ETL)-blue?style=flat&logo=ETL&logoColor=white">
+<img src="https://img.shields.io/badge/Devon-A50034?style=flat&logo=LG&logoColor=white">
 <img src="https://img.shields.io/badge/OZreport-A100FF?style=flat&logo=OZ&logoColor=white">
 <img src="https://img.shields.io/badge/NCRM-008FC7?style=flat&logo=NCRM&logoColor=white">
 
