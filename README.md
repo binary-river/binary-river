@@ -49,4 +49,6 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=binary-river&layout=compact)
 
+![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&section=footer)
+
 </div>
