@@ -21,14 +21,19 @@ Here are some ideas to get you started:
 
 ### 🛠🛠 Tech Stack 🛠🛠
 
-<img src="https://img.shields.io/badge/Java-%232F2625?style=flat&logo=CoffeeScript&logoColor=white">
-<img src="https://img.shields.io/badge/Javascript-%23F7DF1E?style=flat&logo=Javascript&logoColor=white">
-<img src="https://img.shields.io/badge/C-%23A8B9CC?style=flat&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle-%23F80000?style=flat&logo=Oracle&logoColor=white">
-<img src="https://img.shields.io/badge/Spring-%236DB33F?style=flat&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/SpringBoot-%236DB33F?style=flat&logo=SpringBoot&logoColor=white">
-<img src="https://img.shields.io/badge/React-%2361DAFB?style=flat&logo=React&logoColor=black">
-<img src="https://img.shields.io/badge/TypeScript-%233178C6?style=flat&logo=TypeScript&logoColor=white">
+<img src="https://img.shields.io/badge/Java-2F2625?style=flat&logo=CoffeeScript&logoColor=white">
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white">
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white">
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white">
+
+
 
 
 
